@@ -8,7 +8,7 @@ import CartProvider from "./store/cart-provider";
 const Wrapper = styled.div`
   background: #FFF5F0;
   width: 100%;
-  min-height: 1100px;
+  padding-bottom: 72px;
   @media (width: 80%;
     max-width: 720px) {
     flex-direction: column;
