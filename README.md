@@ -1,4 +1,4 @@
-# Oreder App
+# Order App
 
 🍕A simple one-page order application made with React ⚛️
 
